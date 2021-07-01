@@ -1,6 +1,7 @@
-# Just a simple HTTP request program
+# JR HTTP Request
 
   The idea of this project is to provide a useful tool to test out CORS functionality.
+
 
   - HTTP Server
 
